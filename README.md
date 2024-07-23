@@ -22,5 +22,5 @@ DAX: For data modeling and creating calculated columns and measures.
 Power Query: For data cleaning, transformation, and loading.
 
 ##Screenshot (Dashboard)
-![Dashboard Image]()
+![Dashboard Image](https://github.com/Drupad-H-S/PWC_call-_center_powerbi/blob/main/PWC_cc.png)
 
