@@ -17,7 +17,6 @@ Agent Performance: Evaluate agent performance based on average handle time (talk
 3.Performance Tracking: Monitor agent performance and call handling efficiency.
 
 ## Technologies Used
-1.Power BI: For data visualization and dashboard creation.
-
+1.Power BI: For data visualization and dashboard creation.                                                                                                                                                             
 2.DAX: For data modeling and creating calculated columns and measures.
 3.Power Query: For data cleaning, transformation, and loading.
