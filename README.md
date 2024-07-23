@@ -17,6 +17,6 @@ Data Insights: Identify areas for improvement in call center operations.
 Performance Tracking: Monitor agent performance and call handling efficiency.
 
 ## Technologies Used
-Power BI: For data visualization and dashboard creation.
-DAX: For data modeling and creating calculated columns and measures.
-Power Query: For data cleaning, transformation, and loading.
+1.Power BI: For data visualization and dashboard creation.
+2.DAX: For data modeling and creating calculated columns and measures.
+3.Power Query: For data cleaning, transformation, and loading.
