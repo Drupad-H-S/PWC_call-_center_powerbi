@@ -12,9 +12,9 @@ Response Time: Monitor the average speed of answer.
 Agent Performance: Evaluate agent performance based on average handle time (talk duration) vs. calls answered.
 
 ## Key Features
-Interactive Dashboards: Visualize key call center metrics and trends.
-Data Insights: Identify areas for improvement in call center operations.
-Performance Tracking: Monitor agent performance and call handling efficiency.
+1.Interactive Dashboards: Visualize key call center metrics and trends.
+2.Data Insights: Identify areas for improvement in call center operations.
+3.Performance Tracking: Monitor agent performance and call handling efficiency.
 
 ## Technologies Used
 1.Power BI: For data visualization and dashboard creation.
