@@ -1,4 +1,4 @@
-# PWC_call-_center_powerbi
+# PWC_call-center_powerbi
 Call Centre Trends Dashboard
 
 ## Overview
@@ -12,11 +12,11 @@ Response Time: Monitor the average speed of answer.
 Agent Performance: Evaluate agent performance based on average handle time (talk duration) vs. calls answered.
 
 ## Key Features
-1.Interactive Dashboards: Visualize key call center metrics and trends.                                                                                                                                                
-2.Data Insights: Identify areas for improvement in call center operations.                                                                                                                                             
-3.Performance Tracking: Monitor agent performance and call handling efficiency.                                                                                                                                        
+Interactive Dashboards: Visualize key call center metrics and trends.                                                                                                                                                
+Data Insights: Identify areas for improvement in call center operations.                                                                                                                                             
+Performance Tracking: Monitor agent performance and call handling efficiency.                                                                                                                                        
 
 ## Technologies Used
-1.Power BI: For data visualization and dashboard creation.                                                                                                                                                             
-2.DAX: For data modeling and creating calculated columns and measures.                                                                                                                                                 
-3.Power Query: For data cleaning, transformation, and loading.
+Power BI: For data visualization and dashboard creation.                                                                                                                                                             
+DAX: For data modeling and creating calculated columns and measures.                                                                                                                                                 
+Power Query: For data cleaning, transformation, and loading.
