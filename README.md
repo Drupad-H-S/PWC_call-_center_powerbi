@@ -20,3 +20,7 @@ Performance Tracking: Monitor agent performance and call handling efficiency.
 Power BI: For data visualization and dashboard creation.                                                                                                                                                             
 DAX: For data modeling and creating calculated columns and measures.                                                                                                                                                 
 Power Query: For data cleaning, transformation, and loading.
+
+##Screenshot (Dashboard)
+![Dashboard Image]()
+
